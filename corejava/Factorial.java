@@ -21,8 +21,8 @@ public class Factorial {
     }*/
 
     //without recursion
-    public static int factorial(int num){
-        int fact=1;
+    public static long factorial(int num){
+        long fact=1;
         int i=1;
         while (i<=num) {
            fact*=i; 
