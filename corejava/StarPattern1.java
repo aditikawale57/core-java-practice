@@ -1,4 +1,4 @@
-package corejava;
+package coreJava;
 //right half pyramid
 import java.util.Scanner;
 
